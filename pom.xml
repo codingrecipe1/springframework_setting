@@ -148,8 +148,6 @@
     </dependency>
   </dependencies>
 
-  <!-- 여기까지 복사 -->
-
   <build>
     <finalName>mvc_test</finalName>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
